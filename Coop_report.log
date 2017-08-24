@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.21)  24 AUG 2017 11:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.21)  24 AUG 2017 13:23
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**Coop_report.tex
-(./Coop_report.tex
+**/home/barth/Private_gitlab/Coop/Coop_report.tex
+(/home/barth/Private_gitlab/Coop/Coop_report.tex
 LaTeX2e <2017/01/01> patch level 3
 Babel <3.9r> and hyphenation patterns for 3 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -736,13 +737,13 @@ Overfull \hbox (22.4317pt too wide) in paragraph at lines 131--132
 [5 <./Company Structure - Jul-17.pdf>] [6] [7] [8] [9] [10] (./Coop_report.aux)
  ) 
 Here is how much of TeX's memory you used:
- 4904 strings out of 494945
- 74614 string characters out of 6181032
+ 4906 strings out of 494945
+ 74731 string characters out of 6181032
  163936 words of memory out of 5000000
- 8126 multiletter control sequences out of 15000+600000
+ 8127 multiletter control sequences out of 15000+600000
  9030 words of font info for 21 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 39i,10n,43p,819b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,10n,43p,850b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/barth/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600
 pk> </home/barth/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.60
 0pk> </home/barth/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.6
@@ -750,9 +751,9 @@ pk> </home/barth/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.60
 600pk> </home/barth/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728
 .600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 >
-Output written on Coop_report.pdf (11 pages, 1362981 bytes).
+Output written on Coop_report.pdf (11 pages, 1365564 bytes).
 PDF statistics:
- 344 PDF objects out of 1000 (max. 8388607)
+ 346 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
