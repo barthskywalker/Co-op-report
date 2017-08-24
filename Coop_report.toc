@@ -17,12 +17,13 @@
 \contentsline {paragraph}{Areas of responsibility \newline }{6}
 \contentsline {subsection}{\numberline {3.7}Net Ops}{6}
 \contentsline {subsection}{\numberline {3.8}Middleware}{6}
-\contentsline {subsection}{\numberline {3.9}Multimedia}{6}
-\contentsline {subsection}{\numberline {3.10}Hosted Services}{6}
-\contentsline {subsection}{\numberline {3.11}Schools}{6}
-\contentsline {subsection}{\numberline {3.12}Finance, Admin and HR}{6}
-\contentsline {subsection}{\numberline {3.13}Infrastructure Services Team}{6}
-\contentsline {paragraph}{Areas of responsibility}{6}
+\contentsline {paragraph}{Areas of responsibility \newline }{6}
+\contentsline {subsection}{\numberline {3.9}Multimedia}{7}
+\contentsline {subsection}{\numberline {3.10}Hosted Services}{7}
+\contentsline {subsection}{\numberline {3.11}Schools}{7}
+\contentsline {subsection}{\numberline {3.12}Finance, Admin and HR}{7}
+\contentsline {subsection}{\numberline {3.13}Infrastructure Services Team}{7}
+\contentsline {paragraph}{Areas of responsibility}{7}
 \contentsline {section}{\numberline {4}Student's main responsibilities(min. 2 page)}{8}
 \contentsline {section}{\numberline {5}Opportunities for Learning during Co-op(min. 4 page)}{9}
 \contentsline {subsection}{\numberline {5.1}Basic Work Skills}{9}
