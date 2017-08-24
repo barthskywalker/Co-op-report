@@ -1,7 +1,7 @@
 \select@language {UKenglish}
 \select@language {UKenglish}
 \contentsline {section}{\numberline {1}Summary of Placement (min. 1 page)}{2}
-\contentsline {subsection}{\numberline {1.1}Brief introduction}{2}
+\contentsline {subsection}{\numberline {1.1}Induction}{2}
 \contentsline {section}{\numberline {2}Brief history of the HEAnet CLG (min. 1 page)}{3}
 \contentsline {paragraph}{What is HEAnet?}{3}
 \contentsline {paragraph}{HEAnet Today}{3}

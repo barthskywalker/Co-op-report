@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.21)  24 AUG 2017 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.21)  24 AUG 2017 15:19
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/barth/Private_gitlab/Coop/Coop_report.tex
-(/home/barth/Private_gitlab/Coop/Coop_report.tex
+**Coop_report.tex
+(./Coop_report.tex
 LaTeX2e <2017/01/01> patch level 3
 Babel <3.9r> and hyphenation patterns for 3 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -154,55 +153,30 @@ Package: fontenc 2017/02/22 v2.0g Standard LaTeX package
 File: t1enc.def 2017/02/22 v2.0g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocstyle.sty
-Package: tocstyle 2016/04/12 v0.2h-alpha KOMA-Script package (versatile toc sty
-les)
-
-
-Package tocstyle Warning: THIS IS AN ALPHA VERSION!
-(tocstyle)                USAGE OF THIS VERSION IS ON YOUR OWN RISK!
-(tocstyle)                EVERYTHING MAY HAPPEN!
-(tocstyle)                EVERYTHING MAY CHANGE IN FUTURE!
-(tocstyle)                THERE IS NO SUPPORT, IF YOU USE THIS PACKAGE!
-(tocstyle)                Maybe it would be better, not to load this package.
-
-\tocstyle@indentstyle=\count101
-Package tocstyle Info: no tocstyle.cfg found on input line 956.
-)
-exclude: 
-exclude: 
-exclude: 
-exclude: 
-exclude: 
-exclude: 
-exclude: 
-exclude: 
-exclude: 
-exclude: 
 (/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count102
-\c@Blindtext=\count103
-\c@blind@countparstart=\count104
-\blind@countxx=\count105
-\blindtext@numBlindtext=\count106
-\blind@countyy=\count107
-\c@blindlist=\count108
-\c@blindlistlevel=\count109
-\c@blindlist@level=\count110
-\blind@listitem=\count111
-\c@blind@listcount=\count112
-\c@blind@levelcount=\count113
-\blind@mathformula=\count114
-\blind@Mathformula=\count115
-\c@blind@randomcount=\count116
-\c@blind@randommax=\count117
-\c@blind@pangramcount=\count118
-\c@blind@pangrammax=\count119
+\c@blindtext=\count101
+\c@Blindtext=\count102
+\c@blind@countparstart=\count103
+\blind@countxx=\count104
+\blindtext@numBlindtext=\count105
+\blind@countyy=\count106
+\c@blindlist=\count107
+\c@blindlistlevel=\count108
+\c@blindlist@level=\count109
+\blind@listitem=\count110
+\c@blind@listcount=\count111
+\c@blind@levelcount=\count112
+\blind@mathformula=\count113
+\blind@Mathformula=\count114
+\c@blind@randomcount=\count115
+\c@blind@randommax=\count116
+\c@blind@pangramcount=\count117
+\c@blind@pangrammax=\count118
 )
 (/usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
@@ -210,7 +184,7 @@ les
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count120
+\c@float@type=\count119
 \float@exts=\toks17
 \float@box=\box27
 \@float@everytoks=\toks18
@@ -230,37 +204,37 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen124
 \caption@hangindent=\dimen125
 )
-\c@ContinuedFloat=\count121
+\c@ContinuedFloat=\count120
 Package caption Info: float package is loaded.
 )
 (./Coop_report.aux)
 \openout1 = `Coop_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count122
+\scratchcounter=\count121
 \scratchdimen=\dimen126
 \scratchbox=\box29
-\nofMPsegments=\count123
-\nofMParguments=\count124
+\nofMPsegments=\count122
+\nofMParguments=\count123
 \everyMPshowfont=\toks19
-\MPscratchCnt=\count125
+\MPscratchCnt=\count124
 \MPscratchDim=\dimen127
-\MPnumerator=\count126
-\makeMPintoPDFobject=\count127
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
 \everyMPtoPDFconversion=\toks20
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
@@ -343,25 +317,18 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 isodate: babel.sty has been loaded
-Package tocstyle Info: prepare \l@part for redefinition on input line 35.
-Package tocstyle Info: prepare \l@section for redefinition on input line 35.
-Package tocstyle Info: prepare \l@subsection for redefinition on input line 35.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 35.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 35.
-Package tocstyle Info: prepare \l@subsubsection for redefinition on input line 
-35.
-Package tocstyle Info: prepare \l@table for redefinition on input line 35.
-Package tocstyle Info: prepare \l@figure for redefinition on input line 35.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 <ul_logo.png, id=1, 825.8052pt x 362.5545pt>
 File: ul_logo.png Graphic file (type png)
  <use ul_logo.png>
-Package pdftex.def Info: ul_logo.png used on input line 39.
+Package pdftex.def Info: ul_logo.png used on input line 37.
 (pdftex.def)             Requested size: 500.01062pt x 99.99876pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
@@ -383,12 +350,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 57--62
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--64
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
@@ -418,12 +385,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--75
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--80
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
 
  []
 
@@ -431,272 +393,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./ul_logo.png>]
 (./Coop_report.toc
-number indent by \l@... (toc, 1):  0.0pt
-text indent by \l@... (toc, 1):  14.99634pt
-number indent by parent (toc, 1):  0.0pt
-text indent calculated (toc, 1): 11.4972pt
-number indent calculated (toc, 1): 0.0pt
-text noindent (toc, 1): 30.5481pt
-number noindent (toc, 1): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 1):  0.0pt
-text indent by \l@... (toc, 1):  14.99634pt
-number indent by parent (toc, 1):  0.0pt
-text indent calculated (toc, 1): 11.4972pt
-number indent calculated (toc, 1): 0.0pt
-text noindent (toc, 1): 30.5481pt
-number noindent (toc, 1): 0.0pt
-number indent by \l@... (toc, 1):  0.0pt
-text indent by \l@... (toc, 1):  14.99634pt
-number indent by parent (toc, 1):  0.0pt
-text indent calculated (toc, 1): 11.4972pt
-number indent calculated (toc, 1): 0.0pt
-text noindent (toc, 1): 30.5481pt
-number noindent (toc, 1): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 1):  0.0pt
-text indent by \l@... (toc, 1):  14.99634pt
-number indent by parent (toc, 1):  0.0pt
-text indent calculated (toc, 1): 11.4972pt
-number indent calculated (toc, 1): 0.0pt
-text noindent (toc, 1): 30.5481pt
-number noindent (toc, 1): 0.0pt
-number indent by \l@... (toc, 1):  0.0pt
-text indent by \l@... (toc, 1):  14.99634pt
-number indent by parent (toc, 1):  0.0pt
-text indent calculated (toc, 1): 11.4972pt
-number indent calculated (toc, 1): 0.0pt
-text noindent (toc, 1): 30.5481pt
-number noindent (toc, 1): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  14.99634pt
-text indent by \l@... (toc, 2):  22.9944pt
-number indent by parent (toc, 2):  11.4972pt
-text indent calculated (toc, 2): 22.77222pt
-number indent calculated (toc, 2): 11.4972pt
-text noindent (toc, 2): 30.5481pt
-number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 3):  37.99074pt
-text indent by \l@... (toc, 3):  31.99216pt
-number indent by parent (toc, 3):  34.26941pt
-text indent calculated (toc, 3): 30.5481pt
-number indent calculated (toc, 3): 34.26941pt
-text noindent (toc, 3): 30.5481pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  37.99074pt
-text indent by \l@... (toc, 3):  31.99216pt
-number indent by parent (toc, 3):  34.26941pt
-text indent calculated (toc, 3): 30.5481pt
-number indent calculated (toc, 3): 34.26941pt
-text noindent (toc, 3): 30.5481pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  37.99074pt
-text indent by \l@... (toc, 3):  31.99216pt
-number indent by parent (toc, 3):  34.26941pt
-text indent calculated (toc, 3): 30.5481pt
-number indent calculated (toc, 3): 34.26941pt
-text noindent (toc, 3): 30.5481pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  37.99074pt
-text indent by \l@... (toc, 3):  31.99216pt
-number indent by parent (toc, 3):  34.26941pt
-text indent calculated (toc, 3): 30.5481pt
-number indent calculated (toc, 3): 34.26941pt
-text noindent (toc, 3): 30.5481pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  37.99074pt
-text indent by \l@... (toc, 3):  31.99216pt
-number indent by parent (toc, 3):  34.26941pt
-text indent calculated (toc, 3): 30.5481pt
-number indent calculated (toc, 3): 34.26941pt
-text noindent (toc, 3): 30.5481pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  37.99074pt
-text indent by \l@... (toc, 3):  31.99216pt
-number indent by parent (toc, 3):  34.26941pt
-text indent calculated (toc, 3): 30.5481pt
-number indent calculated (toc, 3): 34.26941pt
-text noindent (toc, 3): 30.5481pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  37.99074pt
-text indent by \l@... (toc, 3):  31.99216pt
-number indent by parent (toc, 3):  34.26941pt
-text indent calculated (toc, 3): 30.5481pt
-number indent calculated (toc, 3): 34.26941pt
-text noindent (toc, 3): 30.5481pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  37.99074pt
-text indent by \l@... (toc, 3):  31.99216pt
-number indent by parent (toc, 3):  34.26941pt
-text indent calculated (toc, 3): 30.5481pt
-number indent calculated (toc, 3): 34.26941pt
-text noindent (toc, 3): 30.5481pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  37.99074pt
-text indent by \l@... (toc, 3):  31.99216pt
-number indent by parent (toc, 3):  34.26941pt
-text indent calculated (toc, 3): 30.5481pt
-number indent calculated (toc, 3): 34.26941pt
-text noindent (toc, 3): 30.5481pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  37.99074pt
-text indent by \l@... (toc, 3):  31.99216pt
-number indent by parent (toc, 3):  34.26941pt
-text indent calculated (toc, 3): 30.5481pt
-number indent calculated (toc, 3): 34.26941pt
-text noindent (toc, 3): 30.5481pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  37.99074pt
-text indent by \l@... (toc, 3):  31.99216pt
-number indent by parent (toc, 3):  34.26941pt
-text indent calculated (toc, 3): 30.5481pt
-number indent calculated (toc, 3): 34.26941pt
-text noindent (toc, 3): 30.5481pt
-number noindent (toc, 3): 0.0pt
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
 )
 \tf@toc=\write3
 \openout3 = `Coop_report.toc'.
@@ -704,7 +404,8 @@ number noindent (toc, 3): 0.0pt
  [1] [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 106.
 
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -737,13 +438,13 @@ Overfull \hbox (22.4317pt too wide) in paragraph at lines 131--132
 [5 <./Company Structure - Jul-17.pdf>] [6] [7] [8] [9] [10] (./Coop_report.aux)
  ) 
 Here is how much of TeX's memory you used:
- 4906 strings out of 494945
- 74731 string characters out of 6181032
- 163936 words of memory out of 5000000
- 8127 multiletter control sequences out of 15000+600000
+ 4682 strings out of 494945
+ 69038 string characters out of 6181032
+ 154722 words of memory out of 5000000
+ 7908 multiletter control sequences out of 15000+600000
  9030 words of font info for 21 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 39i,10n,43p,850b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,10n,43p,818b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/barth/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600
 pk> </home/barth/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.60
 0pk> </home/barth/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.6
@@ -751,7 +452,7 @@ pk> </home/barth/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.60
 600pk> </home/barth/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728
 .600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 >
-Output written on Coop_report.pdf (11 pages, 1365564 bytes).
+Output written on Coop_report.pdf (11 pages, 1366396 bytes).
 PDF statistics:
  346 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
